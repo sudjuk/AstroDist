@@ -5,7 +5,6 @@
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://github.com/sudjuk/AstroDist-Backend)
 [![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://github.com/sudjuk/AstroDist-async-service)
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://github.com/sudjuk/AstroDist-Frontend)
-[![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)](https://github.com/sudjuk/AstroDist-Frontend)
 
 ## 📋 О проекте
 
