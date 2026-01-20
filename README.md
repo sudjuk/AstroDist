@@ -25,8 +25,7 @@ AstroDist — полнофункциональная система для ра�
 
 ### Диаграмма развертывания
 
-![Deployment Diagram](путь/к/рисунку4.png)
-*Рисунок 4 – Диаграмма развертывания системы*
+<img width="816" height="1184" alt="image" src="https://github.com/user-attachments/assets/1a028489-58f0-4508-a801-a2da31bb9012" />
 
 ## 💻 Технологический стек
 
@@ -41,19 +40,24 @@ AstroDist — полнофункциональная система для ра�
 ## 🖼️ Скриншоты
 
 ### Главная страница
-![Главная страница](путь/к/рисунку9.png)
+<img width="1004" height="526" alt="image" src="https://github.com/user-attachments/assets/a472bae6-f9f7-4e9b-b43e-0b5ad79d9bf0" />
+<img width="1004" height="195" alt="image" src="https://github.com/user-attachments/assets/761b60f0-f8d1-45a2-a70b-67c172ec5ef6" />
+
 *Интерактивная карусель с описанием функционала и инструкцией*
 
 ### Календарь дней наблюдений
-![Страница с днями](путь/к/рисунку10.png)
+<img width="1004" height="501" alt="image" src="https://github.com/user-attachments/assets/62e0e170-e766-4010-be46-1e57eb6bd576" />
+
 *Карточки дней с поиском по датам*
 
 ### Детальная информация о дне
-![Подробное описание](путь/к/рисунку11.png)
+<img width="1004" height="498" alt="image" src="https://github.com/user-attachments/assets/343820d0-0b70-47c3-8fd0-0f0ca9e69f71" />
+
 *Детальная информация о выбранной дате наблюдения*
 
 ### Система заявок
-![Заявки](путь/к/рисунку16.png)
+<img width="1004" height="499" alt="image" src="https://github.com/user-attachments/assets/0a83ea85-d97a-46c7-afec-b38cc7e216bc" />
+
 *Просмотр заявок с результатами расчетов и фильтрацией*
 
 ### Личный кабинет
@@ -61,22 +65,28 @@ AstroDist — полнофункциональная система для ра�
 <summary>Дополнительные скриншоты</summary>
 
 **Регистрация**
-![Регистрация](путь/к/рисунку12.png)
+<img width="1004" height="503" alt="image" src="https://github.com/user-attachments/assets/0eed99bf-dc89-4b42-8a20-102599adb404" />
+
 
 **Авторизация**
-![Авторизация](путь/к/рисунку13.png)
+<img width="1004" height="500" alt="image" src="https://github.com/user-attachments/assets/62d51189-e633-4597-9135-32c39a3ee8f8" />
+
 
 **Личный кабинет**
-![Личный кабинет](путь/к/рисунку14.png)
+<img width="1004" height="502" alt="image" src="https://github.com/user-attachments/assets/0f507867-5c55-4911-ad24-4f48ddf45fb0" />
+
 
 **Корзина**
-![Корзина](путь/к/рисунку15.png)
+<img width="1004" height="501" alt="image" src="https://github.com/user-attachments/assets/4ecc2437-9466-4eea-afae-7386b9478468" />
+
 
 **Tauri приложение**
-![Tauri](путь/к/рисунку17.png)
+<img width="1004" height="543" alt="image" src="https://github.com/user-attachments/assets/da4418d0-58a1-4516-b08d-e4f35a8f1e00" />
+
 
 **PWA версия**
-![PWA](путь/к/рисунку18.png)
+<img width="489" height="1062" alt="image" src="https://github.com/user-attachments/assets/ea0f779b-0f58-41da-b7ea-521c3e40e011" />
+
 </details>
 
 ## 📊 UML диаграммы
@@ -88,7 +98,8 @@ AstroDist — полнофункциональная система для ра�
 ![State Diagram](путь/к/рисунку2.png)
 
 ### ER-диаграмма базы данных
-![ER Diagram](путь/к/рисунку5.png)
+<img width="1004" height="505" alt="image" src="https://github.com/user-attachments/assets/b6f7c1a9-3fc6-4493-91d2-898548e48cc9" />
+
 
 <details>
 <summary>Дополнительные диаграммы</summary>
@@ -97,13 +108,16 @@ AstroDist — полнофункциональная система для ра�
 ![Activity Diagram](путь/к/рисунку3.png)
 
 **Диаграмма классов Backend**
-![Backend Classes](путь/к/рисунку6.png)
+<img width="1004" height="1010" alt="image" src="https://github.com/user-attachments/assets/17c774e7-8027-4182-b645-e845cfbe753c" />
+
 
 **Диаграмма классов Frontend**
-![Frontend Classes](путь/к/рисунку7.png)
+<img width="1004" height="785" alt="image" src="https://github.com/user-attachments/assets/fdb92c7f-f1a5-4272-b0aa-6eb7a64459d6" />
+
 
 **Диаграмма последовательности**
-![Sequence Diagram](путь/к/рисунку8.png)
+<img width="1004" height="867" alt="image" src="https://github.com/user-attachments/assets/8a666c7a-d82a-4083-b6b1-b1b1c92a639a" />
+
 </details>
 
 ## 🚀 Быстрый старт
@@ -144,5 +158,11 @@ AstroDist — полнофункциональная система для ра�
 
 - GitHub: [@sudjuk](https://github.com/sudjuk)  
 - Telegram: @sudjukkk  
-- Email: `masdor27@gmail.com`  
+- Email: `masdor27@gmail.com`
+
+### Репозитории
+
+- Фронтенд - https://github.com/sudjuk/AstroDist-Frontend
+- Основной веб-сервис - https://github.com/sudjuk/AstroDist-Backend
+- Асинхронный веб-сервис - https://github.com/sudjuk/AstroDist-async-service
 
