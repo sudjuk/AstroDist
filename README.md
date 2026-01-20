@@ -57,8 +57,11 @@ AstroDist — полнофункциональная система для ра�
 
 ### Система заявок
 <img width="1004" height="499" alt="image" src="https://github.com/user-attachments/assets/0a83ea85-d97a-46c7-afec-b38cc7e216bc" />
-
 *Просмотр заявок с результатами расчетов и фильтрацией*
+
+**Корзина**
+<img width="1004" height="501" alt="image" src="https://github.com/user-attachments/assets/4ecc2437-9466-4eea-afae-7386b9478468" />
+
 
 ### Личный кабинет
 <details>
@@ -74,10 +77,6 @@ AstroDist — полнофункциональная система для ра�
 
 **Личный кабинет**
 <img width="1004" height="502" alt="image" src="https://github.com/user-attachments/assets/0f507867-5c55-4911-ad24-4f48ddf45fb0" />
-
-
-**Корзина**
-<img width="1004" height="501" alt="image" src="https://github.com/user-attachments/assets/4ecc2437-9466-4eea-afae-7386b9478468" />
 
 
 **Tauri приложение**
