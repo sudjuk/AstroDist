@@ -21,4 +21,15 @@ AstroDist — полнофункциональная система для ра�
 - Нативное приложение на Tauri
 
 ## 🏗️ Архитектура
+AstroDist/
+│
+├── Frontend (React + Redux)
+│ └── 
+https://github.com/sudjuk/AstroDist-Frontend
 
+│
+├── Backend (Go)
+│ └── https://github.com/sudjuk/AstroDist-Backend
+│
+└── Async Compute Service (Django)
+└── https://github.com/sudjuk/AstroDist-async-service
