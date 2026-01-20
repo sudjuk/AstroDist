@@ -92,10 +92,12 @@ AstroDist — полнофункциональная система для ра�
 ## 📊 UML диаграммы
 
 ### Диаграмма прецедентов
-![Use Case Diagram](путь/к/рисунку1.png)
+<img width="1004" height="776" alt="image" src="https://github.com/user-attachments/assets/865d3507-edab-47f7-8309-006af54cc7a8" />
+
 
 ### Диаграмма состояний заявок
-![State Diagram](путь/к/рисунку2.png)
+<img width="911" height="391" alt="image" src="https://github.com/user-attachments/assets/abf794d9-8f61-4952-b375-53aa2169c17b" />
+
 
 ### ER-диаграмма базы данных
 <img width="1004" height="505" alt="image" src="https://github.com/user-attachments/assets/b6f7c1a9-3fc6-4493-91d2-898548e48cc9" />
