@@ -1,5 +1,24 @@
-# AstroDist
-## Cервис для расчёта расстояния от центра земли до астероида. 
-<img width="1015" height="573" alt="1  figma-1" src="https://github.com/user-attachments/assets/2f550571-20ee-4820-8267-0f876ab8b0b5" />
-<img width="1016" height="568" alt="1  figma-2" src="https://github.com/user-attachments/assets/16a3d9dc-a92c-4d7d-a1e9-26454728cabc" />
-<img width="1013" height="608" alt="1  figma-3" src="https://github.com/user-attachments/assets/7ddab54a-23a2-46ff-8fc2-e82ced5a2500" />
+# 🚀 AstroDist - Asteroid Distance Calculator
+
+> Веб-приложение для расчета расстояния до астероидов с микросервисной архитектурой
+
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://github.com/sudjuk/AstroDist-Backend)
+[![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://github.com/sudjuk/AstroDist-async-service)
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://github.com/sudjuk/AstroDist-Frontend)
+[![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)](https://github.com/sudjuk/AstroDist-Frontend)
+
+## 📋 О проекте
+
+AstroDist — полнофункциональная система для расчета расстояний до астероидов с асинхронной обработкой вычислений. Проект реализован в виде микросервисной архитектуры с разделением на frontend, backend и вычислительный сервис.
+
+### ✨ Ключевые возможности
+
+- Интерактивный календарь для выбора даты наблюдения
+- Асинхронная обработка расчетов расстояний до астероидов
+- Система управления заявками с фильтрацией по статусам
+- Личный кабинет исследователя с корзиной заявок
+- Поддержка PWA (Progressive Web App)
+- Нативное приложение на Tauri
+
+## 🏗️ Архитектура
+
